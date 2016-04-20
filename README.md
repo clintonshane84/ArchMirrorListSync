@@ -12,13 +12,13 @@ INSTALLATION:
 
 ```
 Make certain you are in the root of the ArchMirrorListSync directory then perform the following command:
-sudo cp ./pacman-fetch-sync-mirrorlist.sh /usr/bin
-sudo chmod a+x /usr/bin/pacman-fetch-sync-mirrorlist.sh
+sudo cp ./pacman-mirrorlist-update.sh /usr/bin
+sudo chmod a+x /usr/bin/pacman-mirrorlist-update.sh
 ```
 
 USAGE:
 ------
 
 ```
-sudo pacman-fetch-sync-mirrorlist.sh
+sudo pacman-mirrorlist-update.sh
 ```

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# pacman-fetch-sync-mirrorlist.sh: Fetch latest pacman mirrorlist and refresh repos
+# pacman-mirrorlist-update.sh: Fetch latest pacman mirrorlist and update packages
 # Copyright (C) 2016  Clinton Wright
 #
 # This program is free software; you can redistribute it and/or
