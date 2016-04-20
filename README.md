@@ -1,4 +1,4 @@
-# ArchMirrorListSync
+# archlinux-mirrorlist-fetch-and-sync
 
 DESCRIPTION:
 ------------
